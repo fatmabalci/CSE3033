@@ -1,0 +1,16 @@
+CSE3033_Project2.pdf
+file.out
+file.txt
+mainSetup
+mainSetup.c
+mainSetup.exe
+myprog
+myprog.c
+CSE3033_Project2.pdf
+file.out
+file.txt
+mainSetup
+mainSetup.c
+mainSetup.exe
+myprog
+myprog.c
